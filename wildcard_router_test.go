@@ -9,7 +9,7 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/gin-gonic/gin"
-	"github.com/qor/wildcard_router"
+	"github.com/simonedbarber/wildcard_router"
 )
 
 var (
